@@ -1,1 +1,1 @@
-# Arduino
+mini project using Arduino
